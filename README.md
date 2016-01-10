@@ -11,4 +11,4 @@ $ rails s
 ```
 ### Proceed to http://localhost3000/records
 
-![game play](images/screen_shot.png)
+![Expense App Screen Shot](app/assets/images/screen_shot.png)
