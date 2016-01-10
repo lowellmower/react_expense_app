@@ -21,7 +21,7 @@
       React.DOM.div
         className: 'form-group'
         React.DOM.input
-          type: 'text'
+          type: 'date'
           className: 'form-control'
           placeholder: 'Date'
           name: 'date'
